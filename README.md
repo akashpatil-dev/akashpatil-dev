@@ -17,6 +17,7 @@
 [![Website](https://img.shields.io/badge/🌍_Website-akashpatil.co.in-blue?style=for-the-badge)](https://akashpatil.co.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpatil007)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilakash952@gmail.com)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://patilsperspectives.substack.com)
 
 ### 📊 GitHub Stats
 
