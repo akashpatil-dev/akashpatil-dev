@@ -125,7 +125,7 @@ Short description of what it does and why it's cool.
 
 Always up for a chat about backend architecture, AI agents, MCP, or that one bug that only shows up in production. 🐛
 
-**📧 Contact:** [Website](https://akashpatil.co.in) | [LinkedIn](https://www.linkedin.com/in/akashpatil007) | [Email](mailto:patilakash952@gmail.com)
+**📧 Contact:** [Website](https://akashpatil.co.in) | [LinkedIn](https://www.linkedin.com/in/akashpatil007) | [Substack](https://patilsperspectives.substack.com) | [Email](mailto:patilakash952@gmail.com)
 
 ---
 
